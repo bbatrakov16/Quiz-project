@@ -1,0 +1,35 @@
+html {
+  background-image: url(img/background.jpg);
+}
+
+body {
+  background-color: rgba(255, 211, 117, 0.884);
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 700px;
+  border: 2px solid rgb(255, 89, 0);
+  border-radius: 20px;
+}
+
+h1 {
+  color: rgb(255, 89, 0);
+}
+
+hr {
+  border: 1px solid rgb(255, 89, 0);
+}
+
+.question-images {
+  width: 350px;
+  border: 1px solid rgb(255, 89, 0);
+  border-radius: 10px;
+}
+
+input {
+  width: 287px;
+}
